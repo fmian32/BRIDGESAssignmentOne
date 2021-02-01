@@ -18,3 +18,13 @@ Using C++ combined with BRIDGES to produce a programming visualization.
 
 # Future Direction 
 Complete further BRIDGES assignments, particularly Maze Solver and Shortest Path on Maps. 
+
+# How to run File (Repl.it) 
+1. Download etch.zip. 
+2. Extract 
+3. Upload files to Repl.it 
+4. Follow instructions on Bridges Setup (https://bridgesuncc.github.io/bridges_setup_cxx_replit.html) 
+   a. (Run in console) sh replit-cxx-setup.sh path-to-repl-project / (e.g. sh replit-cxx-setup.sh ${HOME}/CxxTest) 
+   b. Change source file to etch.cpp / change exe to etch 
+5. (Run in console) make (compile program) 
+6. (Execute Program) ./etc 
